@@ -6,5 +6,13 @@
         "guest_can_pause": false,
         "name": "Selim Sarıaltın",
         "created_at": "2021-06-22T06:23:11.340795Z"
+    },
+    {
+        "id": 4,
+        "code": "RSUXOF",
+        "host": "cnl23ldxfd12y0pdri6llyhp2vu2xpgh",
+        "guest_can_pause": false,
+        "name": "Batu Öz",
+        "created_at": "2021-06-22T06:23:11.340795Z"
     }
 ]
